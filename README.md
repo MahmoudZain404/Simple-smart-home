@@ -3,3 +3,4 @@ The system also detects gas leaks using a gas sensor "MQ-5" and then sets the al
 Temperature sensor "LM-35" is used to turn on the AC system if the home temperature exceeds the threshold which is 30 degrees Celsius.
 An LCD to display the warning messages and system status.
 System target: AVR ATMEGA32.
+![image](https://github.com/MahmoudZain404/Simple-smart-home/assets/111197800/f8f9e93e-c2f1-4d18-a736-12d0b17e15dc)
